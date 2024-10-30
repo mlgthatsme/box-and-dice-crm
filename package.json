@@ -1,7 +1,7 @@
 {
   "name": "box-and-dice-crm",
   "version": "1.0.0",
-  "description": "JavaScript/TypeScript client for the Box+Dice CRM API",
+  "description": "JavaScript/TypeScript client for the Box and Dice CRM API",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
@@ -23,7 +23,7 @@
     "api-client",
     "real-estate"
   ],
-  "author": "",
+  "author": "mlgthatsme",
   "license": "MIT",
   "devDependencies": {
     "@eslint/js": "^8.56.0",
@@ -40,9 +40,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/box-and-dice-crm.git"
+    "url": "https://github.com/mlgthatsme/box-and-dice-crm.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/box-and-dice-crm/issues"
+    "url": "https://github.com/mlgthatsme/box-and-dice-crm/issues"
   }
 }
